@@ -1,0 +1,265 @@
+*{
+   
+    border: 0;
+}
+.a{
+    margin-top: 1rem;
+margin-bottom: 1rem;
+text-align: center;
+font-weight: bold;
+}
+h5{
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.25rem;
+font-weight: bolder; 
+}
+.b{
+    font-weight: bold;
+}
+.ins{
+    font-size: 3rem;
+padding-top: 6em;
+font-weight: revert;
+}
+.inst{
+    width: 100%;
+    background: rgb(8, 8, 8);
+    height: 30rem;
+}
+.img{
+    margin-left: 16rem;
+    padding: 5rem;
+  
+}
+hr:not([size]){
+    height: 1rem;
+width: 8rem;
+margin-left: 12rem;
+color: black;
+}
+.race{
+    font-weight: bold;
+    margin-left: 7em;
+}
+.btn{
+    height: 3rem;
+    width: 4rem;
+    color: black;
+    text-decoration: none;
+    border: yellow;
+}
+.logo1{
+    color: black;
+    text-decoration: none;
+    margin-left: 13rem;
+}
+.btn{
+    border: orange;
+}
+
+.btn1{
+    margin-left: 51rem;
+    margin-top: -4rem;
+    float: left;
+    height: 5rem;
+    width: 11rem;
+}
+h3{
+    font-size: 2rem;
+margin-left: 26rem;
+}
+
+.ban{
+    font-size: 7.5rem;
+    font-weight: 800;
+}
+.zp{
+    z-index: 1000;
+  top: 0;
+
+}
+.zp1{
+    z-index: 1000;
+    top: 0;
+}
+.nav-link{
+    color: white;
+}
+.small{
+height: 100%;
+width: 15%;
+}
+.zp{
+    position: absolute !important;
+font-weight: bold;
+padding-top: 27rem;
+color: white;
+padding-left: 45rem;
+}
+.zp2{
+    z-index: 999;
+    top: 0;
+}
+.zp2{
+
+        padding-top: 31rem;
+        padding-left: 25rem;
+        color: white;
+        font-weight: bold;
+        
+}
+@media only screen and (max-width: 414px){
+    .zp2{
+        padding-left: 1rem;
+        padding-top: 1rem;
+        color: white;
+        font-weight: unset;
+    }
+    .zp{
+       
+        font-weight: bold;
+        padding-top: 5rem;
+        color: white;
+        padding-left: 7rem;
+    }
+    .zp5{
+        font-weight: bold;
+        color: white;
+        padding-left: 3rem;
+        padding-top: 37rem;
+    }
+} 
+ @media only screen and (max-width: 810px){
+    .zp2{
+        padding-left: 3rem;
+        padding-top: 15rem;
+        color: white;
+        font-weight: bold;
+    }
+    .zp{
+       
+        font-weight: bold;
+padding-top: 13rem;
+color: white;
+padding-left: 20rem;
+    }
+    .zp5{
+        font-weight: bold;
+        color: white;
+        padding-left: 16rem;
+        padding-top: 32rem;
+    }
+} 
+ @media only screen and (max-width: 375px){
+    .zp2{
+        padding-left: 1rem;
+        padding-top: 2rem;
+        color: white;
+        font-weight: unset;
+    }
+    .zp {
+        font-weight: bold;
+        padding-top: 6rem;
+        color: white;
+        padding-left: 7rem;
+    }
+    
+   
+} 
+.nav1{
+    
+        width: 100%;
+        height: 110px;
+        margin: 0 auto;
+        background: transparent;
+       
+}
+ @media only screen and (max-width: 415px){
+    .zp2{
+        padding-left: 1rem;
+        padding-top: 2rem;
+        color: white;
+        font-weight: unset;
+    }
+    .zp {
+        font-weight: bold;
+        padding-top: 6rem;
+        color: white;
+        padding-left: 7rem;}
+} 
+ @media only screen and (max-width: 428px){
+    .zp2{
+        padding-left: 1rem;
+        padding-top: 7rem;
+        color: white;
+        font-weight: unset;
+    } 
+    .zp {
+        
+            font-weight: bold;
+            padding-top: 5rem;
+            color: white;
+            padding-left: 6rem;
+    }
+} 
+.img-1{
+    background: url("banner.1.jpeg");
+    width: 100%;
+    height: 50rem;
+    background-position: center;
+    background-size: cover;
+}
+.img-2{
+    background: url("banner.2.jpeg");
+    width: 100%;
+    height: 50rem;
+    background-position: center;
+    background-size: cover;
+}
+.img-3{
+    background: url("banner.3.jpeg");
+    width: 100%;
+    height: 50rem;
+    background-position: center;
+    background-size: cover;
+}
+.zp4{
+    font-weight: bold;
+padding-top: 28rem;
+color: white;
+padding-left: 13rem;
+}
+.zp5{
+   text-align: center;
+}
+@media only screen and (max-width: 360px){
+    .zp4{
+        font-weight: bold;
+padding-top: 21rem;
+color: white;
+padding-left: 9rem;
+    }
+    .zp5{
+        text-align: center;
+    }
+}
+.light{
+ color: white;
+ font-weight: 800;
+ padding-top: 8rem;
+ padding-left: 4rem;
+}
+.start{
+    padding-left: 8rem;
+    color: white;
+}
+.follow{
+    background:orange;
+padding-left: 3rem;
+padding-top: 3rem;
+font-size: larger;
+}
+button{
+    align-content: center;
+}
